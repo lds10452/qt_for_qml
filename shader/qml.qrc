@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>iamges/background.png</file>
+        <file>iamges/pinwheel.png</file>
+        <file>fragement.qml</file>
+    </qresource>
+</RCC>

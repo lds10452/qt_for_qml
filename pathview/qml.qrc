@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>fengjing/XuebaExport_1475728338137.jpg</file>
+        <file>fengjing/XuebaExport_1475728346422.jpg</file>
+        <file>fengjing/XuebaExport_1475728354632.jpg</file>
+        <file>fengjing/XuebaExport_1475728362871.jpg</file>
+        <file>fengjing/XuebaExport_1475728369482.jpg</file>
+        <file>fengjing/XuebaExport_1475728376116.jpg</file>
+        <file>fengjing/XuebaExport_1475728383712.jpg</file>
+        <file>fengjing/XuebaExport_1475728390148.jpg</file>
+        <file>fengjing/XuebaExport_1475728397199.jpg</file>
+        <file>fengjing/XuebaExport_1475728402906.jpg</file>
+        <file>fengjing/XuebaExport_1475728409651.jpg</file>
+        <file>fengjing/XuebaExport_1475728416042.jpg</file>
+        <file>fengjing/XuebaExport_1475728422297.jpg</file>
+        <file>fengjing/XuebaExport_1475728428396.jpg</file>
+        <file>fengjing/XuebaExport_1475728434064.jpg</file>
+    </qresource>
+</RCC>
