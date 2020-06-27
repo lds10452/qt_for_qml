@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/soccer_ball.png</file>
+        <file>images/soccer_shadow.png</file>
+        <file>gradient.qml</file>
+        <file>shadow.qml</file>
+        <file>iamge.qml</file>
+        <file>translate.qml</file>
+        <file>paint.qml</file>
+        <file>ColorlSquare.qml</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>image/2-背景.png</file>
+        <file>image/网站截图.png</file>
+    </qresource>
+</RCC>

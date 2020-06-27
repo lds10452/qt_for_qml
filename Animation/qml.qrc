@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>iamge/background.png</file>
+        <file>iamge/rocket.png</file>
+        <file>iamge/soccer_ball.png</file>
+        <file>iamge/soccer_shadow.png</file>
+        <file>iamge/ufo.png</file>
+        <file>iamge/ufo_background.png</file>
+        <file>easingtypes.qml</file>
+        <file>sequentialanimation.qml</file>
+        <file>ball.qml</file>
+        <file>redlight.qml</file>
+    </qresource>
+</RCC>
