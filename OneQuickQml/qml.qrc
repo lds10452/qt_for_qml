@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>QImage/background.png</file>
+        <file>QImage/rocket1.png</file>
+        <file>QImage/rocket2.png</file>
+        <file>QImage/rocket3.png</file>
+    </qresource>
+</RCC>
